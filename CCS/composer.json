@@ -1,0 +1,8 @@
+{
+    "name": "vendor/ccs",
+    "description": "composer.json",
+    "type": "composer-plugin",
+    "license": "none",
+    "minimum-stability": "stable",
+    "require": {}
+}
